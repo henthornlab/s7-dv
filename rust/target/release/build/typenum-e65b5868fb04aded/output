@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/drdave/s7-dv/rust/target/release/build/typenum-e65b5868fb04aded/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/drdave/s7-dv/rust/target/release/build/typenum-e65b5868fb04aded/out/op.rs
